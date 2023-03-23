@@ -1,0 +1,11 @@
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\bin\Debug\Sistema de Login.exe.config
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\bin\Debug\Sistema de Login.exe
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\bin\Debug\Sistema de Login.pdb
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.AssemblyReference.cache
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema_de_Login.Form1.resources
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema_de_Login.Properties.Resources.resources
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.GenerateResource.cache
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.CoreCompileInputs.cache
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.exe
+C:\Users\igor-\source\repos\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.pdb

@@ -116,9 +116,10 @@
             // checkCasa
             // 
             this.checkCasa.AutoSize = true;
+            this.checkCasa.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkCasa.Location = new System.Drawing.Point(254, 226);
             this.checkCasa.Name = "checkCasa";
-            this.checkCasa.Size = new System.Drawing.Size(117, 17);
+            this.checkCasa.Size = new System.Drawing.Size(145, 20);
             this.checkCasa.TabIndex = 11;
             this.checkCasa.Text = "Possui Casa Própia";
             this.checkCasa.UseVisualStyleBackColor = true;
@@ -126,9 +127,10 @@
             // checkVeiculo
             // 
             this.checkVeiculo.AutoSize = true;
+            this.checkVeiculo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkVeiculo.Location = new System.Drawing.Point(254, 249);
             this.checkVeiculo.Name = "checkVeiculo";
-            this.checkVeiculo.Size = new System.Drawing.Size(97, 17);
+            this.checkVeiculo.Size = new System.Drawing.Size(115, 20);
             this.checkVeiculo.TabIndex = 12;
             this.checkVeiculo.Text = "Possui Veículo";
             this.checkVeiculo.UseVisualStyleBackColor = true;
@@ -138,6 +140,7 @@
             this.groupBox1.Controls.Add(this.radioO);
             this.groupBox1.Controls.Add(this.radioF);
             this.groupBox1.Controls.Add(this.radioM);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(247, 282);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(409, 123);
@@ -148,9 +151,10 @@
             // radioO
             // 
             this.radioO.AutoSize = true;
+            this.radioO.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioO.Location = new System.Drawing.Point(7, 85);
             this.radioO.Name = "radioO";
-            this.radioO.Size = new System.Drawing.Size(51, 17);
+            this.radioO.Size = new System.Drawing.Size(57, 20);
             this.radioO.TabIndex = 14;
             this.radioO.TabStop = true;
             this.radioO.Text = "Outro";
@@ -159,9 +163,10 @@
             // radioF
             // 
             this.radioF.AutoSize = true;
+            this.radioF.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioF.Location = new System.Drawing.Point(7, 53);
             this.radioF.Name = "radioF";
-            this.radioF.Size = new System.Drawing.Size(67, 17);
+            this.radioF.Size = new System.Drawing.Size(80, 20);
             this.radioF.TabIndex = 1;
             this.radioF.TabStop = true;
             this.radioF.Text = "Feminino";
@@ -170,9 +175,10 @@
             // radioM
             // 
             this.radioM.AutoSize = true;
+            this.radioM.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioM.Location = new System.Drawing.Point(7, 20);
             this.radioM.Name = "radioM";
-            this.radioM.Size = new System.Drawing.Size(73, 17);
+            this.radioM.Size = new System.Drawing.Size(86, 20);
             this.radioM.TabIndex = 0;
             this.radioM.TabStop = true;
             this.radioM.Text = "Masculino";
@@ -180,11 +186,14 @@
             // 
             // Lista
             // 
+            this.Lista.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lista.FormattingEnabled = true;
+            this.Lista.ItemHeight = 25;
             this.Lista.Location = new System.Drawing.Point(18, 469);
             this.Lista.Name = "Lista";
-            this.Lista.Size = new System.Drawing.Size(788, 95);
+            this.Lista.Size = new System.Drawing.Size(788, 79);
             this.Lista.TabIndex = 14;
+            this.Lista.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.Lista_MouseDoubleClick);
             // 
             // btnCadastrar
             // 
